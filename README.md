@@ -2,12 +2,12 @@
 
 Analysis of Sales Report 2022 of Saumya Fashion House's using MS Excel and Drawing some useful insights for business Growth.
 
-Objectives of Project:
+▶️Objectives of Project:
 - To analyze the sales performance of Saumya Fashion House based on the sales data from 2022.
 - To provide an annual report that aids in identifying areas of improvement and facilitates business growth in the upcoming years.
 - To Answer few Questions asked by Trader from insight details.
 
-The Analysis involved the following process steps:
+▶️The Analysis involved the following process steps:
 1. Data Cleaning: Ensuring data accuracy and consistency by removing any inconsistencies, errors, or duplicates.
 2. Data Processing: Manipulating and transforming the sales data to prepare it for analysis.
 3. Data Analysis: Applying statistical and analytical techniques to uncover meaningful patterns, trends, and insights.
@@ -15,7 +15,7 @@ The Analysis involved the following process steps:
 5. Reports: Creating comprehensive reports summarizing the key findings and conclusions derived from the analysis.
 6. Final Insights: Generating valuable insights and actionable recommendations based on the analysis results.
 
-Methodology involves here are:
+▶️Methodology involves here are:
 
 1.Data gathering & cleaning: 
 - Importing the CSV file having all the raw data into MS Excel.
@@ -40,17 +40,17 @@ Methodology involves here are:
 - Developed a Column chart that depicts the purchasing patterns based on age groups for both Men and Women, providing valuable insights into their buying behaviour.
 - Created a Pie chart to present the percentage share of each Distribution channel, enabling an understanding of the distribution channel preferences and their respective market shares.
 
-🤑INSIGHTS DRAWN:
+🔰INSIGHTS DRAWN:
 > Sale in Month of March is Highest
 >	Overall Women are more likely to buy compared to Men (~64%)
 >	Maharashtra, Karnataka and Utter Pradesh are among Top 3 states (~35%)
 >	Adult age group (30- 49yrs) is max contributing (~50%)
 >	Amazon, Flipkart and Myntra channels are max contributing (~80%)
 
-🤑Final Conclusion to improve Saumya Fashion House Annual Sales:
+🔰Final Conclusion to improve Saumya Fashion House Annual Sales:
 > Target Women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Utter Pradesh By showing more Ads/Offers/Coupons available on Amazon, Flipkart and Myntra.
 
-Some other insights asked by Trader:
+♻️Some other insights asked by Trader:
 - 1)Q. Which month got the highest sales and orders?
 - Ans- March Month has got the highest number of sales and orders.
 - 2)Q. Who purchased more- men or women in 2022?
